@@ -2,7 +2,7 @@
 Brain tumor detection and prediction using keras vgg-16
 
 ## Demo
-  <b>Link:<b/> https://brain-tumor.netlify.app/
+  ![image](https://github.com/JuanRojasDev/Brain-Tumor-Detection/assets/114270458/55a41049-970d-43d0-adad-5f4d97d40ac6)
   <p>
   <img src="./Readme_resource/Image1.png" width="800" >
   <img src="./Readme_resource/Image2.png" width="800" >
